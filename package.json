@@ -18,13 +18,6 @@
     "@vitejs/plugin-react": "^4.0.0",
     "eslint": "^8.0.0",
     "eslint-plugin-react": "^7.0.0",
-<<<<<<< HEAD
-    "prettier": "^2.8.8",
-    "tailwindcss": "^3.4.24",
-    "autoprefixer": "^10.4.14",
-    "postcss": "^8.4.0"
-=======
     "prettier": "^2.8.8"
->>>>>>> d92fa26 (chore: remove Tailwind/PostCSS and replace global CSS with simple index.css to avoid build errors)
   }
 }
